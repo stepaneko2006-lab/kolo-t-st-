@@ -1,4 +1,4 @@
-# kolo-t-st-
+# kolostesti
 <!DOCTYPE html>
 <html lang="cs">
 <head>
